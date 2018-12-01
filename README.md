@@ -25,6 +25,6 @@ Given sheet file is for Yukinohana.
 
 Demonstration video Links:
 
-![Yukinohana - Mika Nakashima](https://youtu.be/DDv91pmvFRM)
+[Yukinohana - Mika Nakashima](https://youtu.be/DDv91pmvFRM)
 
-![The private's letter - Kim Kwang Seok](https://youtu.be/tuGnGWz8Kzk)
+[The private's letter - Kim Kwang Seok](https://youtu.be/tuGnGWz8Kzk)
