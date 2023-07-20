@@ -10,7 +10,7 @@ Contact cakeng@naver.com to
 use, modify, or share the software, schemetic, PCB for any purpose
 other than personal use.
 
-## Sheet file format:
+## Sheet file format
 
 Each note is composed of 6 duration bits, 7 tone bits, and 3 volume bits.
 ex) 0b0001000001111101 -> Duration: 4 ticks, Tone: 15, Volume: 5/8
@@ -21,7 +21,7 @@ Given sheet file is for Yukinohana.
 
 ![20181130_001232.jpg](./20181130_001232.jpg)
 
-## Demonstration video Links:
+## Demonstration video Links
 
 The private's letter - Kim Kwang Seok
 
